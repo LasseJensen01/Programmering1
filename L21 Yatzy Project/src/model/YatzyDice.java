@@ -3,7 +3,6 @@ package model;
 import jdk.jfr.Frequency;
 
 import java.sql.Array;
-import java.sql.SQLInvalidAuthorizationSpecException;
 import java.util.Arrays;
 import java.util.Random;
 

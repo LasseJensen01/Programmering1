@@ -10,9 +10,6 @@ import javafx.scene.control.TextField;
 import javafx.scene.layout.GridPane;
 import javafx.stage.Stage;
 
-import java.awt.*;
-import java.awt.print.PrinterAbortException;
-
 public class GuiDemo1 extends Application {
     private TextField txfName = new TextField();
     private TextField txfName2 = new TextField();
